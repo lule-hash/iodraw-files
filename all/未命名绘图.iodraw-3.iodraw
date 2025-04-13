@@ -74,8 +74,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y-o1CcIhCM_Dw1VI_YIi-6" value="商品ID、标题、&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;价格、&lt;/span&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;店铺、图片等&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="520" y="400" width="180" height="120" as="geometry" />
+        <mxCell id="Y-o1CcIhCM_Dw1VI_YIi-6" value="商品ID、标题、&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;价格、&lt;/span&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;店铺、图片等&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="520" y="390" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Y-o1CcIhCM_Dw1VI_YIi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y-o1CcIhCM_Dw1VI_YIi-12" target="Y-o1CcIhCM_Dw1VI_YIi-15">
           <mxGeometry relative="1" as="geometry" />
