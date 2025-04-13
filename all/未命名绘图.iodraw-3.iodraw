@@ -32,7 +32,7 @@
           <mxGeometry x="340" y="360" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y-o1CcIhCM_Dw1VI_YIi-5" value="调用API，传入商品ID获取评论统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="490" width="140" height="70" as="geometry" />
+          <mxGeometry x="340" y="490" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y-o1CcIhCM_Dw1VI_YIi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y-o1CcIhCM_Dw1VI_YIi-6">
           <mxGeometry relative="1" as="geometry">
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="Y-o1CcIhCM_Dw1VI_YIi-6" value="商品ID、标题、&lt;span style=&quot;background-color: initial;&quot;&gt;价格、&lt;/span&gt;&lt;div&gt;&lt;div&gt;店铺、图片等&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="400" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-o1CcIhCM_Dw1VI_YIi-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="640" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
