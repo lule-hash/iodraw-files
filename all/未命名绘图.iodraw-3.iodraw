@@ -13,7 +13,7 @@
         <mxCell id="Y-o1CcIhCM_Dw1VI_YIi-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;构造&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;URL&lt;/span&gt;逐页&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;请求数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y-o1CcIhCM_Dw1VI_YIi-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y-o1CcIhCM_Dw1VI_YIi-4" value="商品ID、标题、价格、店铺、图片等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y-o1CcIhCM_Dw1VI_YIi-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
