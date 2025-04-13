@@ -54,8 +54,8 @@
         <mxCell id="Y-o1CcIhCM_Dw1VI_YIi-6" value="商品ID、标题、&lt;span style=&quot;background-color: initial;&quot;&gt;价格、&lt;/span&gt;&lt;div&gt;&lt;div&gt;店铺、图片等&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="400" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Y-o1CcIhCM_Dw1VI_YIi-12" value="&lt;li class=&quot;&quot; data-end=&quot;289&quot; data-start=&quot;270&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;289&quot; data-start=&quot;273&quot;&gt;&lt;strong data-end=&quot;289&quot; data-start=&quot;273&quot;&gt;将抓取数据写入CSV文件&lt;/strong&gt;&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li class=&quot;&quot; data-end=&quot;335&quot; data-start=&quot;290&quot;&gt;&lt;br/&gt;&lt;p class=&quot;&quot; data-end=&quot;316&quot; data-start=&quot;293&quot;&gt;&lt;/p&gt;&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="650" width="140" height="80" as="geometry" />
+        <mxCell id="Y-o1CcIhCM_Dw1VI_YIi-12" value="&lt;li class=&quot;&quot; data-end=&quot;289&quot; data-start=&quot;270&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;289&quot; data-start=&quot;273&quot;&gt;&lt;strong data-end=&quot;289&quot; data-start=&quot;273&quot;&gt;将抓取数据写入CSV文件&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="680" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
