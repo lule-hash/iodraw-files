@@ -163,15 +163,6 @@
         <mxCell id="i42RrNmJObMZXlYaKc6o-36" value="个&lt;div style=&quot;font-size: 15px;&quot;&gt;人&lt;div style=&quot;font-size: 15px;&quot;&gt;中&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;心&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Garamond;fontStyle=0" parent="sV6Ccay6o9Yuicz4nkYH-6" vertex="1">
           <mxGeometry y="45" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sV6Ccay6o9Yuicz4nkYH-10" value="" style="group;fontSize=15;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="488.81" y="200" width="59.99999999999994" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="sV6Ccay6o9Yuicz4nkYH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fontSize=15;fontFamily=Garamond;fontStyle=0" parent="sV6Ccay6o9Yuicz4nkYH-10" vertex="1">
-          <mxGeometry x="-28.810000000000002" y="40" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sV6Ccay6o9Yuicz4nkYH-8" value="为&lt;div style=&quot;font-size: 15px;&quot;&gt;你&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;推&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;荐&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Garamond;fontStyle=0" parent="sV6Ccay6o9Yuicz4nkYH-10" vertex="1">
-          <mxGeometry y="45" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="sV6Ccay6o9Yuicz4nkYH-12" value="" style="group;fontSize=15;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="190" y="200" width="60" height="120" as="geometry" />
         </mxCell>
