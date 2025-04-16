@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i42RrNmJObMZXlYaKc6o-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;论文-基于Hadoop的宠物食品数据分析系统的设计与实现&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Garamond;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="i42RrNmJObMZXlYaKc6o-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;宠物食品数据分析可视化系统的设计与实现&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Garamond;fontStyle=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="205" y="40" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i42RrNmJObMZXlYaKc6o-20" value="数据获取模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Garamond;fontStyle=0" parent="1" vertex="1">
