@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="C0e0gnFK6pVn-31GVbPB">
-    <mxGraphModel dx="1554" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="740" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,14 +52,8 @@
         <mxCell id="i42RrNmJObMZXlYaKc6o-51" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;flipV=1;direction=north;flipH=1;fontSize=16;fontFamily=Garamond;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="598" y="380" width="40" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="SK4ZKdRNwTvanr5_TX0X-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i42RrNmJObMZXlYaKc6o-52" target="i42RrNmJObMZXlYaKc6o-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SK4ZKdRNwTvanr5_TX0X-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i42RrNmJObMZXlYaKc6o-52" target="i42RrNmJObMZXlYaKc6o-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="i42RrNmJObMZXlYaKc6o-52" value="不&lt;div style=&quot;font-size: 16px;&quot;&gt;同&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;宠&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;物&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;食&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;平&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;均&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;价&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;格&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Garamond;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="254" y="501" width="60" height="30" as="geometry" />
+          <mxGeometry x="254" y="515.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i42RrNmJObMZXlYaKc6o-53" value="不&lt;div style=&quot;font-size: 16px;&quot;&gt;同&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;宠&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;物&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;食&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;销&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;售&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;量&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Garamond;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="354" y="501" width="60" height="30" as="geometry" />
