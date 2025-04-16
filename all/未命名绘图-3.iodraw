@@ -35,7 +35,7 @@
           <mxGeometry x="314" y="371" width="40" height="290" as="geometry" />
         </mxCell>
         <mxCell id="i42RrNmJObMZXlYaKc6o-46" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;flipV=1;direction=north;flipH=1;fontSize=16;fontFamily=Garamond;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="648" y="371" width="40" height="290" as="geometry" />
+          <mxGeometry x="648" y="383.25" width="40" height="290" as="geometry" />
         </mxCell>
         <mxCell id="i42RrNmJObMZXlYaKc6o-47" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;flipV=1;direction=north;flipH=1;fontSize=16;fontFamily=Garamond;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="364" y="371" width="40" height="290" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="538" y="501" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i42RrNmJObMZXlYaKc6o-57" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;不&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;同&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;店&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;铺&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;的&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;好&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;评&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;数&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;、&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;中&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;评&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;数&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;、&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;差&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;评&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;数&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Garamond;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="588" y="501" width="60" height="30" as="geometry" />
+          <mxGeometry x="588" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i42RrNmJObMZXlYaKc6o-58" value="不&lt;div style=&quot;font-size: 16px;&quot;&gt;同&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;店&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;铺&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;评&lt;div style=&quot;font-size: 16px;&quot;&gt;分&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Garamond;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="638" y="501" width="60" height="30" as="geometry" />
