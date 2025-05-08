@@ -89,10 +89,13 @@
           <mxGeometry x="535" y="770" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-32" value="不同价格范围的宠物食品数量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="680" width="10" height="30" as="geometry" />
+          <mxGeometry x="630" y="790" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o8ghm4TT2P_SOAzWYrr9-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8ghm4TT2P_SOAzWYrr9-33" target="o8ghm4TT2P_SOAzWYrr9-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-33" value="不同店铺的好评数、中评数、差评数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="680" width="60" height="30" as="geometry" />
+          <mxGeometry x="690" y="680" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-34" value="不同店铺评分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="680" width="60" height="30" as="geometry" />
@@ -114,6 +117,9 @@
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-46" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;中&lt;/div&gt;&lt;div&gt;心&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o8ghm4TT2P_SOAzWYrr9-47" value="不同店铺的好评数、中评数、差评数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="570" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
