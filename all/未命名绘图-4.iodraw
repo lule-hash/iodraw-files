@@ -43,9 +43,6 @@
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="477" y="360" width="60" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="o8ghm4TT2P_SOAzWYrr9-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="172" y="670" width="60" height="360" as="geometry" />
-        </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="257" y="670" width="60" height="360" as="geometry" />
         </mxCell>
@@ -72,9 +69,6 @@
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-26" value="数&lt;div style=&quot;font-size: 16px;&quot;&gt;据&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;预&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;处&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="190" y="430" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o8ghm4TT2P_SOAzWYrr9-27" value="不同宠物食品平均价格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="192" y="765" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-28" value="不&lt;div style=&quot;font-size: 16px;&quot;&gt;同&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;宠&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;物&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;食&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;TOP&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;10&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;的&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;店&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;铺&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="269.5" y="720" width="35" height="210" as="geometry" />
@@ -114,6 +108,15 @@
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-46" value="个&lt;div style=&quot;font-size: 16px;&quot;&gt;人&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;中&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;心&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="315" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o8ghm4TT2P_SOAzWYrr9-51" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="172" y="670" width="60" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="o8ghm4TT2P_SOAzWYrr9-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="o8ghm4TT2P_SOAzWYrr9-51">
+          <mxGeometry width="60" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="o8ghm4TT2P_SOAzWYrr9-27" value="不同宠物食品平均价格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="o8ghm4TT2P_SOAzWYrr9-51">
+          <mxGeometry x="20" y="95" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
