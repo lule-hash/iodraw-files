@@ -56,7 +56,7 @@
           <mxGeometry x="190" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-33" value="不&lt;div style=&quot;font-size: 16px;&quot;&gt;同&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;店&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;铺&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;的&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;好&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;评&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;数&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;、&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;中&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;评&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;数&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;、&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;差&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;评&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;数&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="707" y="810" width="30" height="30" as="geometry" />
+          <mxGeometry x="707" y="835" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-34" value="不同店铺评分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="802" y="810" width="20" height="30" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry width="60" height="360" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-32" value="不同价格范围的宠物食品数量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="o8ghm4TT2P_SOAzWYrr9-56">
-          <mxGeometry x="25" y="140" width="10" height="30" as="geometry" />
+          <mxGeometry x="25" y="165" width="10" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
