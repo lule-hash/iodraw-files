@@ -86,7 +86,7 @@
           <mxGeometry width="60" height="360" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-27" value="不同宠物食品平均价格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="o8ghm4TT2P_SOAzWYrr9-51">
-          <mxGeometry x="20" y="95" width="20" height="120" as="geometry" />
+          <mxGeometry x="20" y="120" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-52" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="257" y="670" width="60" height="360" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry width="60" height="360" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-28" value="不&lt;div style=&quot;font-size: 16px;&quot;&gt;同&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;宠&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;物&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;食&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;TOP&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;10&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;的&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;店&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;铺&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="o8ghm4TT2P_SOAzWYrr9-52">
-          <mxGeometry x="12.5" y="50" width="35" height="210" as="geometry" />
+          <mxGeometry x="12.5" y="75" width="35" height="210" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-53" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="338" y="670" width="60" height="360" as="geometry" />
