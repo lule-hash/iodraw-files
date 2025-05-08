@@ -113,7 +113,7 @@
           <mxGeometry width="60" height="360" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-30" value="不&lt;div style=&quot;font-size: 16px;&quot;&gt;同&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;宠&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;物&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;食&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;的&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;总&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;销&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;售&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;量&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="o8ghm4TT2P_SOAzWYrr9-54">
-          <mxGeometry y="140" width="60" height="30" as="geometry" />
+          <mxGeometry y="165" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-55" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="522" y="670" width="60" height="360" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry width="60" height="360" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-31" value="标题词云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="o8ghm4TT2P_SOAzWYrr9-55">
-          <mxGeometry x="20" y="140" width="20" height="30" as="geometry" />
+          <mxGeometry x="20" y="165" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-56" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="612" y="670" width="60" height="360" as="geometry" />
