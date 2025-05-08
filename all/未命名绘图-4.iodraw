@@ -98,10 +98,10 @@
           <mxGeometry x="800" y="800" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-39" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;列&lt;/div&gt;&lt;div&gt;表&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="396" y="390" width="60" height="30" as="geometry" />
+          <mxGeometry x="396" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-40" value="宠&lt;div&gt;物&lt;/div&gt;&lt;div&gt;食&lt;/div&gt;&lt;div&gt;品&lt;/div&gt;&lt;div&gt;市&lt;/div&gt;&lt;div&gt;场&lt;/div&gt;&lt;div&gt;概&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="390" width="60" height="30" as="geometry" />
+          <mxGeometry x="477" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-41" value="宠&lt;div&gt;物&lt;/div&gt;&lt;div&gt;食&lt;/div&gt;&lt;div&gt;品&lt;/div&gt;&lt;div&gt;综&lt;/div&gt;&lt;div&gt;合&lt;/div&gt;&lt;div&gt;看&lt;/div&gt;&lt;div&gt;板&lt;/div&gt;&lt;div&gt;功&lt;/div&gt;&lt;div&gt;能&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="558" y="430" width="60" height="30" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="880" y="420" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-46" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;中&lt;/div&gt;&lt;div&gt;心&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="390" width="60" height="30" as="geometry" />
+          <mxGeometry x="315" y="430" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
