@@ -22,7 +22,7 @@
         <mxCell id="luVLgLrIXyRSvYE1QBvI-6" value="完整性分析" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="340" y="500" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="luVLgLrIXyRSvYE1QBvI-7" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;宋体&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;宋体&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="luVLgLrIXyRSvYE1QBvI-7" value="&lt;div style=&quot;background-color: rgb(30, 31, 34);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;宋体, monospace&quot; color=&quot;#bcbec4&quot;&gt;&lt;span style=&quot;font-size: 13.0667px;&quot;&gt;宠食综合洞察看板&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="340" y="590" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="luVLgLrIXyRSvYE1QBvI-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.017;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" parent="1" target="luVLgLrIXyRSvYE1QBvI-2" edge="1">
