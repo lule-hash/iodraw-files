@@ -107,10 +107,10 @@
           <mxGeometry x="160" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-42" value="数据获取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="510" width="60" height="30" as="geometry" />
+          <mxGeometry x="690" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-43" value="数据获取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="860" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
