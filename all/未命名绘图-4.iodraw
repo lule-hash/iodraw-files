@@ -20,64 +20,52 @@
           <mxGeometry x="710" y="270" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="60" height="170" as="geometry" />
+          <mxGeometry x="40" y="375" width="60" height="170" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="190" y="360" width="60" height="170" as="geometry" />
+          <mxGeometry x="190" y="375" width="60" height="170" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="396" y="360" width="60" height="200" as="geometry" />
+          <mxGeometry x="396" y="375" width="60" height="200" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="315" y="360" width="60" height="200" as="geometry" />
+          <mxGeometry x="315" y="375" width="60" height="200" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="558" y="360" width="60" height="200" as="geometry" />
+          <mxGeometry x="558" y="375" width="60" height="200" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="690" y="360" width="60" height="170" as="geometry" />
+          <mxGeometry x="690" y="375" width="60" height="170" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="860" y="360" width="60" height="170" as="geometry" />
+          <mxGeometry x="860" y="375" width="60" height="170" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="477" y="360" width="60" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="o8ghm4TT2P_SOAzWYrr9-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="692" y="670" width="60" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="o8ghm4TT2P_SOAzWYrr9-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="782" y="670" width="60" height="360" as="geometry" />
+          <mxGeometry x="477" y="375" width="60" height="200" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-25" value="数&lt;div style=&quot;font-size: 16px;&quot;&gt;据&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;获&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;取&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="435" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-26" value="数&lt;div style=&quot;font-size: 16px;&quot;&gt;据&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;预&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;处&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="190" y="430" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o8ghm4TT2P_SOAzWYrr9-33" value="不&lt;div style=&quot;font-size: 16px;&quot;&gt;同&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;店&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;铺&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;的&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;好&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;评&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;数&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;、&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;中&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;评&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;数&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;、&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;差&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;评&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;数&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="707" y="835" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o8ghm4TT2P_SOAzWYrr9-34" value="不同店铺评分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="802" y="835" width="20" height="30" as="geometry" />
+          <mxGeometry x="190" y="445" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-39" value="数&lt;div style=&quot;font-size: 16px;&quot;&gt;据&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;列&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;表&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="396" y="445" width="60" height="30" as="geometry" />
+          <mxGeometry x="396" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-40" value="宠&lt;div style=&quot;font-size: 16px;&quot;&gt;物&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;食&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;市&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;场&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;概&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;览&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="477" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="477" y="465" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-41" value="宠&lt;div style=&quot;font-size: 16px;&quot;&gt;物&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;食&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;综&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;合&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;看&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;板&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;功&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;能&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="558" y="445" width="60" height="30" as="geometry" />
+          <mxGeometry x="558" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-42" value="用户管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="710" y="415" width="20" height="60" as="geometry" />
+          <mxGeometry x="710" y="430" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-43" value="数据管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="880" y="430" width="20" height="30" as="geometry" />
+          <mxGeometry x="880" y="445" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-46" value="个&lt;div style=&quot;font-size: 16px;&quot;&gt;人&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;中&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;心&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="315" y="445" width="60" height="30" as="geometry" />
+          <mxGeometry x="315" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-51" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="172" y="670" width="60" height="360" as="geometry" />
@@ -144,6 +132,24 @@
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-32" value="不同价格范围的宠物食品数量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="o8ghm4TT2P_SOAzWYrr9-62">
           <mxGeometry x="25" y="165" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o8ghm4TT2P_SOAzWYrr9-63" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="692" y="670" width="60" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="o8ghm4TT2P_SOAzWYrr9-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="o8ghm4TT2P_SOAzWYrr9-63">
+          <mxGeometry width="60" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="o8ghm4TT2P_SOAzWYrr9-33" value="不&lt;div style=&quot;font-size: 16px;&quot;&gt;同&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;店&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;铺&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;的&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;好&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;评&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;数&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;、&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;中&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;评&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;数&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;、&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;差&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;评&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;数&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="o8ghm4TT2P_SOAzWYrr9-63">
+          <mxGeometry x="15" y="165" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o8ghm4TT2P_SOAzWYrr9-64" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="782" y="670" width="60" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="o8ghm4TT2P_SOAzWYrr9-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="o8ghm4TT2P_SOAzWYrr9-64">
+          <mxGeometry width="60" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="o8ghm4TT2P_SOAzWYrr9-34" value="不同店铺评分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="o8ghm4TT2P_SOAzWYrr9-64">
+          <mxGeometry x="20" y="165" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
