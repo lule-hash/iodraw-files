@@ -26,10 +26,10 @@
           <mxGeometry x="190" y="360" width="60" height="170" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="396" y="360" width="60" height="170" as="geometry" />
+          <mxGeometry x="396" y="360" width="60" height="200" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="315" y="360" width="60" height="170" as="geometry" />
+          <mxGeometry x="315" y="360" width="60" height="200" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="558" y="360" width="60" height="200" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="880" y="430" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-46" value="个&lt;div style=&quot;font-size: 16px;&quot;&gt;人&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;中&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;心&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="315" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="315" y="445" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
