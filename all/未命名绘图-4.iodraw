@@ -70,7 +70,7 @@
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-25" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;获&lt;/div&gt;&lt;div&gt;取&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o8ghm4TT2P_SOAzWYrr9-26" value="数据预处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="o8ghm4TT2P_SOAzWYrr9-26" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;预&lt;/div&gt;&lt;div&gt;处&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-27" value="不同宠物食品平均价格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -112,7 +112,7 @@
         <mxCell id="o8ghm4TT2P_SOAzWYrr9-43" value="数据管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o8ghm4TT2P_SOAzWYrr9-46" value="个人中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="o8ghm4TT2P_SOAzWYrr9-46" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;中&lt;/div&gt;&lt;div&gt;心&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
