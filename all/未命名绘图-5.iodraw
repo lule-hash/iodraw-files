@@ -10,11 +10,20 @@
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-135" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="100" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="VbJcvN_lr2cV0qmpr9J0-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VbJcvN_lr2cV0qmpr9J0-137" target="VbJcvN_lr2cV0qmpr9J0-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-137" value="读取csv文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VbJcvN_lr2cV0qmpr9J0-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VbJcvN_lr2cV0qmpr9J0-138" target="VbJcvN_lr2cV0qmpr9J0-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-138" value="处理缺失值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VbJcvN_lr2cV0qmpr9J0-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VbJcvN_lr2cV0qmpr9J0-139" target="VbJcvN_lr2cV0qmpr9J0-140">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-139" value="删除重复值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="390" width="120" height="60" as="geometry" />
@@ -27,9 +36,6 @@
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-142" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="660" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VbJcvN_lr2cV0qmpr9J0-138" target="VbJcvN_lr2cV0qmpr9J0-138">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
