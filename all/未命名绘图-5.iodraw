@@ -46,7 +46,7 @@
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-152" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="530" y="60" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-153" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="VbJcvN_lr2cV0qmpr9J0-153" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="530" y="170" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-154" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
