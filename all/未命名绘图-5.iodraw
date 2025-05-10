@@ -47,9 +47,9 @@
           <mxGeometry x="530" y="60" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-153" value="HDFS分布式文件系统" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="490" y="170" width="220" height="60" as="geometry" />
+          <mxGeometry x="470" y="170" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-154" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VbJcvN_lr2cV0qmpr9J0-154" value="SparikSql分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="270" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-155" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
