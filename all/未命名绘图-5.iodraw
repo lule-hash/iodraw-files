@@ -37,7 +37,7 @@
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="VbJcvN_lr2cV0qmpr9J0-177" target="VbJcvN_lr2cV0qmpr9J0-178">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-177" value="统一数据格式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="VbJcvN_lr2cV0qmpr9J0-177" value="数据格式标准化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="230" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-178" value="结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
