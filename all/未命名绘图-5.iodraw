@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-153" value="HDFS分布式文件系统" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="170" width="220" height="60" as="geometry" />
+          <mxGeometry x="445" y="170" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="VbJcvN_lr2cV0qmpr9J0-154" target="VbJcvN_lr2cV0qmpr9J0-155">
           <mxGeometry relative="1" as="geometry" />
