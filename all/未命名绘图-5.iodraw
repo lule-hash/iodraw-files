@@ -4,51 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="VbJcvN_lr2cV0qmpr9J0-135" target="VbJcvN_lr2cV0qmpr9J0-137">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-135" value="开始" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="230" y="100" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="VbJcvN_lr2cV0qmpr9J0-137" target="VbJcvN_lr2cV0qmpr9J0-138">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-137" value="读取csv文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="VbJcvN_lr2cV0qmpr9J0-138" target="VbJcvN_lr2cV0qmpr9J0-139">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-138" value="处理缺失值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="230" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="VbJcvN_lr2cV0qmpr9J0-139" target="VbJcvN_lr2cV0qmpr9J0-140">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-139" value="删除重复值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="230" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="VbJcvN_lr2cV0qmpr9J0-140" target="VbJcvN_lr2cV0qmpr9J0-141">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-140" value="异常值处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="230" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="VbJcvN_lr2cV0qmpr9J0-141" target="VbJcvN_lr2cV0qmpr9J0-142">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-141" value="统一数据格式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="230" y="530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VbJcvN_lr2cV0qmpr9J0-142" value="结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="230" y="620" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="VbJcvN_lr2cV0qmpr9J0-153" target="VbJcvN_lr2cV0qmpr9J0-154">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-163" value="读取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="VbJcvN_lr2cV0qmpr9J0-159">
           <mxGeometry x="-0.1333" y="3" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+            <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-153" value="HDFS分布式文件系统" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
