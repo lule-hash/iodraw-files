@@ -29,25 +29,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-173" value="删除重复值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="230" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="VbJcvN_lr2cV0qmpr9J0-175" target="VbJcvN_lr2cV0qmpr9J0-177" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-175" value="异常值处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="230" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="VbJcvN_lr2cV0qmpr9J0-177" target="VbJcvN_lr2cV0qmpr9J0-178" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-177" value="数据格式标准化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="230" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbJcvN_lr2cV0qmpr9J0-178" value="结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="230" y="620" width="120" height="80" as="geometry" />
+          <mxGeometry x="230" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GNdbHfDIKZ7S4OOW_640-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GNdbHfDIKZ7S4OOW_640-1" target="VbJcvN_lr2cV0qmpr9J0-173">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GNdbHfDIKZ7S4OOW_640-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
